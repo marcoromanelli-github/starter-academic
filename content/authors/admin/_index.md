@@ -55,6 +55,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/138/2586-2.html
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
