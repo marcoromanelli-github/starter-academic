@@ -69,4 +69,4 @@ highlight_name: false
 #- Visitors
 ---
 
-Marco blablabla
+I am a postdoctoral fellow as CentraleSupélec and I am fortunate to be advised by [Pablo Piantanida](http://webpages.lss.supelec.fr/perso/pablo.piantanida/Welcome.html). My interests are in the intersection between Information Theory and Machine Learning on one side, and Privacy and Security on the other. I received my PhD from École Polytechnique and Inria in 2020.
