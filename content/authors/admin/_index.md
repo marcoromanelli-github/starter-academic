@@ -47,14 +47,17 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/marcoromanelli-github
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/138/2586-2.html
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -69,4 +72,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a postdoctoral fellow as CentraleSupélec and I am fortunate to be advised by [Pablo Piantanida](http://webpages.lss.supelec.fr/perso/pablo.piantanida/Welcome.html). My interests are in the intersection between Information Theory and Machine Learning on one side, and Privacy and Security on the other. I received my PhD from École Polytechnique and Inria in 2020.
+I am a postdoctoral fellow as CentraleSupélec and I am fortunate to be advised by Professor [Pablo Piantanida](http://webpages.lss.supelec.fr/perso/pablo.piantanida/Welcome.html). My interests are in the intersection between Information Theory and Machine Learning on one side, and Privacy and Security on the other. I received my PhD from École Polytechnique and Inria in 2020.
