@@ -28,10 +28,10 @@ education:
     year: 2020
   - course: MSc in Computer and Automation Engineering
     institution: Università di Siena, Dipartimento di Ignegneria dell'Iinformazione e Scienze Matematiche
-    academic year: 2017
+    year: 2017
   - course: BSc in Ingengeria Informatica e dell'Informazione
     institution: Università di Siena, Dipartimento di Ignegneria dell'Iinformazione e Scienze Matematiche
-    academic year: 2014
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
