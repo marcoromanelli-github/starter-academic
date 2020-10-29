@@ -23,11 +23,6 @@
   url = "#contact"
   weight = 100
 
-[[main]]
-  name = "More news"
-  url = "/more_news"
-  weight = 120
-
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
