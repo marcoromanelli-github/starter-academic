@@ -8,6 +8,16 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "Home"
+  url = "#software"
+  weight = 90
+  
+[[main]]
+  name = "Home"
+  url = "#contacts"
+  weight = 100
+
 #[[main]]
 #  name = "Posts"
 #  url = "#posts"
