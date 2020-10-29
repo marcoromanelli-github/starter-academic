@@ -9,7 +9,7 @@ weight = 11  # Order that this section will appear.
 
 title = "News"
 subtitle = ""
-Ciao
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
