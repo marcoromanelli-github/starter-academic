@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include applications of Information Theory notions to Privacy and Security, Machine Learning and Information Leakage Measurement.
 
 interests:
-- Information theory applied to Privacy and Security
+- Information Theory applied to Privacy and Security
 - Machine Learning applied to Privacy and Security
 - Information Leakage Measurement
 
