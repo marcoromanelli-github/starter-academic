@@ -28,4 +28,4 @@ design:
   #  padding: ["20px", "0", "20px", "0"]
 ---
 
-The main software repository can be found at [GitHub](https://github.com/marcoromanelli-github). Previus contributions can be found at [GitLab1](https://gitlab.com/marcoromane.gitlab.public), [GitLab2](https://gitlab.com/MIPAN/mipan), [GitLab3](https://github.com/LEAVESrepo/leaves).
+The main software repository can be found at [GitHub](https://github.com/marcoromanelli-github). Previus contributions can be found at [GitLab_1](https://gitlab.com/marcoromane.gitlab.public), [GitLab_2](https://gitlab.com/MIPAN/mipan), [GitHub_1](https://github.com/LEAVESrepo/leaves).
