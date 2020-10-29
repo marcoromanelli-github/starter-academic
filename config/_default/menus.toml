@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "Home"
+  name = "Software"
   url = "#software"
   weight = 90
   
 [[main]]
-  name = "Home"
+  name = "Contacts"
   url = "#contacts"
   weight = 100
 
