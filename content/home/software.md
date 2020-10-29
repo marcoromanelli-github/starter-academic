@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 11
+weight: 39
 
 title: Demos
 subtitle:
@@ -28,4 +28,4 @@ design:
   #  padding: ["20px", "0", "20px", "0"]
 ---
 
-Ciao
+The main software repository can be found at [GitHub](https://github.com/marcoromanelli-github). Previus contributions can be found at [GitLab1](https://gitlab.com/marcoromane.gitlab.public), [GitLab2](https://gitlab.com/MIPAN/mipan), [GitLab3](https://github.com/LEAVESrepo/leaves).
