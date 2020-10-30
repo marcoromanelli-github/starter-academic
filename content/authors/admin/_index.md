@@ -27,10 +27,10 @@ education:
     institution: École Polytechnique, Inria, Lix
     year: 2020
   - course: MSc in Computer and Automation Engineering
-    institution: Università di Siena, Dipartimento di Ignegneria dell'Iinformazione e Scienze Matematiche
+    institution: Università di Siena, Dipartimento di Ignegneria dell'Informazione e Scienze Matematiche
     year: 2017
   - course: BSc in Ingengeria Informatica e dell'Informazione
-    institution: Università di Siena, Dipartimento di Ignegneria dell'Iinformazione e Scienze Matematiche
+    institution: Università di Siena, Dipartimento di Ignegneria dell'Informazione e Scienze Matematiche
     year: 2014
 
 # Social/Academic Networking
