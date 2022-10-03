@@ -6,19 +6,20 @@ title: Marco Romanelli
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: Associate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: CentraleSupélec
-  url: "https://www.centralesupelec.fr/"
+- name: NYU Tandon School of Engineering
+  url: "https://engineering.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applications of Information Theory notions to Privacy and Security, Machine Learning and Information Leakage Measurement.
+bio: My research interests include applications of Information Theory notions to Privacy and Security, Safety in AI, Machine Learning and Information Leakage Measurement.
 
 interests:
 - Information Theory applied to Privacy and Security
 - Machine Learning applied to Privacy and Security
+- Safety in AI
 - Information Leakage Measurement
 
 education:
@@ -75,4 +76,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a postdoctoral fellow at CentraleSupélec and I am fortunate to be advised by Professor [Pablo Piantanida](http://webpages.lss.supelec.fr/perso/pablo.piantanida/Welcome.html). My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
+I am an Associate Researcher at [NYU Tandon School of Engineering: Electrical and Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) and I am fortunate to be advised by Professor [Siddharth Garg](https://wp.nyu.edu/ensure_group/pi/). My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
