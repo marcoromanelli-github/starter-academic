@@ -76,4 +76,4 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a Research Associate at [NYU Tandon School of Engineering: Electrical and Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering) and I am fortunate to be advised by Professor [Siddharth Garg](https://wp.nyu.edu/ensure_group/pi/). My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
+I am a Research Associate at [NYU Tandon School of Engineering: Electrical and Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering). My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
