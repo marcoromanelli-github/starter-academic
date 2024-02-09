@@ -1,8 +1,7 @@
 +++
 date = "2024-01-16"
 +++
-Our new paper [A Data-Driven Measure of Relative Uncertainty for Misclassification Detection](https://openreview.net/forum?id=ruGY8v10mK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) has been accepted to appear at [ICLR 2024](https://iclr.cc/).[
-](https://arxiv.org/pdf/2206.15415.pdf)In this paper we proposed a data-driven method, powered by a statistical diversity and dissimilarity metric, to detect incorrect classification at test time by assessing the uncertainty of a given model.
+Our new paper [A Data-Driven Measure of Relative Uncertainty for Misclassification Detection](https://openreview.net/forum?id=ruGY8v10mK&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)) has been accepted to appear at [ICLR 2024](https://iclr.cc/). In this paper we proposed a data-driven method, powered by a statistical diversity and dissimilarity metric, to detect incorrect classification at test time by assessing the uncertainty of a given model.
 
 A huge shout-out to may great colleagues [Eduardo](https://edadaltocg.github.io/), [Georg](https://scholar.google.at/citations?user=5lv1oKAAAAAJ&hl=en), and [Pablo](https://sites.google.com/mila.quebec/pablo-piantanida/home) for their fantastic work!
 
