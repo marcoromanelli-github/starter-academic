@@ -9,9 +9,9 @@ superuser: true
 role: Research Associate
 
 # Organizations/Affiliations
-organizations:
-- name: NYU Tandon School of Engineering
-  url: "https://engineering.nyu.edu/"
+# organizations:
+# - name: NYU Tandon School of Engineering
+#   url: "https://engineering.nyu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applications of Information Theory notions to Privacy and Security, Safety in AI, Machine Learning and Information Leakage Measurement.
@@ -30,7 +30,7 @@ education:
   - course: MSc in Computer and Automation Engineering
     institution: Università di Siena, Dipartimento di Ignegneria dell'Informazione e Scienze Matematiche
     year: 2017
-  - course: BSc in Ingengeria Informatica e dell'Informazione
+  - course: BSc in Ingegneria Informatica e dell'Informazione
     institution: Università di Siena, Dipartimento di Ignegneria dell'Informazione e Scienze Matematiche
     year: 2014
 
@@ -59,9 +59,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=gmqBkLMAAAAJ&hl
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marco-romanelli-243234143/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/marco-romanelli-243234143/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -76,4 +76,6 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a Research Associate at [NYU Tandon School of Engineering: Electrical and Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering). My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
+<!-- I am a Research Associate at [NYU Tandon School of Engineering: Electrical and Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering). -->
+I am a Tenure-Track Professor of Computer Science.
+My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
