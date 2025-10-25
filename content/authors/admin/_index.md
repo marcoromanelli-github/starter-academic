@@ -6,12 +6,15 @@ title: Marco Romanelli
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 # organizations:
 # - name: NYU Tandon School of Engineering
 #   url: "https://engineering.nyu.edu/"
+organizations:
+- name: HU Computer Science Department
+  url: "https://www.hofstra.edu/computer-science/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applications of Information Theory notions to Privacy and Security, Safety in AI, Machine Learning and Information Leakage Measurement.
@@ -77,5 +80,5 @@ highlight_name: false
 ---
 
 <!-- I am a Research Associate at [NYU Tandon School of Engineering: Electrical and Computer Engineering](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering). -->
-I am a Tenure-Track Professor of Computer Science.
+I am an Assistant Professor of Computer Science.
 My interests lie at the intersection between information theory and machine learning on the one hand, and privacy and security on the other. I received my PhD from École Polytechnique and Inria in 2020.
