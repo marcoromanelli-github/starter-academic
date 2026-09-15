@@ -1,0 +1,153 @@
+\documentclass{beamer}
+
+
+\usepackage{graphicx}
+\usepackage{pgffor}
+\usepackage{tikz}
+\usepackage{geometry}
+
+% The original pages are 792 x 612 bp.  Removing 38 bp from the bottom
+% gives a 792 x 574 bp slide with no navigation-symbol footer.
+% \geometry{paperwidth=792bp,paperheight=574bp}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{}
+
+% Keep this PDF in the same directory as the .tex file.
+\newcommand{\sourcepdf}{Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf}
+\newcommand{\bottomcrop}{30bp}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{ragged2e}
+\usepackage{listings}
+\usepackage{minted}
+\usepackage{animate}
+\AtBeginEnvironment{frame}{\justifying}
+\AtBeginEnvironment{itemize}{\justifying}
+\AtBeginEnvironment{enumerate}{\justifying}
+\usepackage{tcolorbox}
+\tcbuselibrary{listings, minted}
+
+\setminted{
+  fontsize=\small,
+  linenos,
+  breaklines
+}
+\usetheme{Madrid}
+\usepackage{amsmath, amsfonts, amssymb}
+
+\setbeamertemplate{footline}[frame number]
+\setbeamertemplate{navigation symbols}{}
+
+\usetikzlibrary{positioning}
+
+\definecolor{ai}{RGB}{14,79,132}
+\definecolor{ml}{RGB}{38,126,186}
+\definecolor{dl}{RGB}{86,176,232}
+\usetikzlibrary{calc}
+\usetikzlibrary{arrows.meta}
+
+\definecolor{lightblue}{RGB}{200,220,235}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\usetikzlibrary{arrows.meta}
+
+\definecolor{classicalyellow}{RGB}{249,227,150}
+\definecolor{machineblue}{RGB}{205,224,241}
+
+\title[CSC-220: Neural Networks and Deep Learning]{CSC-220: Neural Networks and Deep Learning}
+\subtitle{Lecture 01 Part II - DL: Mathematical Building Blocks, Gradient Descent, and Backpropagation}
+
+\date[Sep. 15\textsuperscript{th}, 2026]{September 15\textsuperscript{th}, 2026}
+
+\setbeamertemplate{footline}{
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.5ex,dp=1ex,left]{author in head/foot}%
+      \hspace{1em}\insertshorttitle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.5ex,dp=1ex,center]{date in head/foot}%
+      \insertshortdate
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.2\paperwidth,ht=2.5ex,dp=1ex,right]{date in head/foot}%
+      \insertframenumber{} / \inserttotalframenumber\hspace{1em}
+    \end{beamercolorbox}%
+  }%
+}
+
+\begin{document}
+
+\thispagestyle{empty}
+\frame{\titlepage}
+
+\setcounter{framenumber}{0}
+
+\input{backprop_animation.tex}
+
+\begin{frame}{Let's zoom in \dots}
+    \centering
+    \animategraphics[
+        controls,
+        loop,
+        poster=first,
+        width=.86\paperwidth
+    ]{4}{backprop_gradient_animation/backprop_gradient_frames/gradient-}{000}{083}
+\end{frame}
+
+
+
+\foreach \pdfpage in {1,...,5}{%
+        \begin{frame}
+            \begin{tikzpicture}[remember picture,overlay]
+                \node[inner sep=0pt] at (current page.center) {%
+                    \includegraphics[
+                        page=\pdfpage,
+                        % trim=0 \bottomcrop{} 0 0,
+                        clip,
+                        width=\paperwidth
+                    ]{\sourcepdf}%
+                };
+            \end{tikzpicture}
+        \end{frame}
+    }
+
+\begin{frame}{ReLU functions and backpropagation}
+    \begin{block}{Key idea}
+        For a pre-activation \(a=\mathbf{w}^{\top}\mathbf{x}+b\),
+        \[
+            \operatorname{ReLU}(a)=\max(0,a).
+        \]
+        Positive signals and their gradients pass through the neuron.
+        Negative signals are mapped to zero and block the gradient for
+        that input.
+    \end{block}
+\end{frame}
+
+\begin{frame}{ReLU functions and backpropagation}
+    \centering
+    \animategraphics[
+        controls,
+        loop,
+        poster=first,
+        width=.94\paperwidth
+    ]{12}{relu_bp/gradient-}{000}{083}
+\end{frame}
+
+\foreach \pdfpage in {7,...,57}{%
+        \begin{frame}
+            \begin{tikzpicture}[remember picture,overlay]
+                \node[inner sep=0pt] at (current page.center) {%
+                    \includegraphics[
+                        page=\pdfpage,
+                        % trim=0 \bottomcrop{} 0 0,
+                        clip,
+                        width=\paperwidth
+                    ]{\sourcepdf}%
+                };
+            \end{tikzpicture}
+        \end{frame}
+    }
+
+\end{document}

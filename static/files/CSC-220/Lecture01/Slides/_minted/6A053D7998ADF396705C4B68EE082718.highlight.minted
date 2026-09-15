@@ -1,0 +1,13 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{import}\PYG{+w}{ }\PYG{n+nn}{numpy}\PYG{+w}{ }\PYG{k}{as}\PYG{+w}{ }\PYG{n+nn}{np}
+
+\PYG{n}{x} \PYG{o}{=} \PYG{n}{np}\PYG{o}{.}\PYG{n}{array}\PYG{p}{([[}\PYG{l+m+mi}{0}\PYG{p}{,} \PYG{l+m+mi}{1}\PYG{p}{],}
+              \PYG{p}{[}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{l+m+mi}{3}\PYG{p}{],}
+              \PYG{p}{[}\PYG{l+m+mi}{4}\PYG{p}{,} \PYG{l+m+mi}{5}\PYG{p}{]])}   \PYG{c+c1}{\PYGZsh{} shape (3, 2)}
+
+\PYG{n}{x} \PYG{o}{=} \PYG{n}{x}\PYG{o}{.}\PYG{n}{reshape}\PYG{p}{((}\PYG{l+m+mi}{6}\PYG{p}{,} \PYG{l+m+mi}{1}\PYG{p}{))}
+\PYG{c+c1}{\PYGZsh{} shape (6, 1)}
+
+\PYG{n}{x} \PYG{o}{=} \PYG{n}{x}\PYG{o}{.}\PYG{n}{reshape}\PYG{p}{((}\PYG{l+m+mi}{2}\PYG{p}{,} \PYG{l+m+mi}{3}\PYG{p}{))}
+\PYG{c+c1}{\PYGZsh{} shape (2, 3)}
+\end{MintedVerbatim}

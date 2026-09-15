@@ -1,0 +1,9 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{c+c1}{\PYGZsh{} Basic slicing}
+\PYG{n}{my\PYGZus{}slice} \PYG{o}{=} \PYG{n}{train\PYGZus{}images}\PYG{p}{[}\PYG{l+m+mi}{10}\PYG{p}{:}\PYG{l+m+mi}{100}\PYG{p}{]}
+\PYG{n+nb}{print}\PYG{p}{(}\PYG{n}{my\PYGZus{}slice}\PYG{o}{.}\PYG{n}{shape}\PYG{p}{)}      \PYG{c+c1}{\PYGZsh{} (90, 28, 28)}
+
+\PYG{c+c1}{\PYGZsh{} Equivalent forms}
+\PYG{n}{train\PYGZus{}images}\PYG{p}{[}\PYG{l+m+mi}{10}\PYG{p}{:}\PYG{l+m+mi}{100}\PYG{p}{,} \PYG{p}{:,} \PYG{p}{:]}
+\PYG{n}{train\PYGZus{}images}\PYG{p}{[}\PYG{l+m+mi}{10}\PYG{p}{:}\PYG{l+m+mi}{100}\PYG{p}{,} \PYG{l+m+mi}{0}\PYG{p}{:}\PYG{l+m+mi}{28}\PYG{p}{,} \PYG{l+m+mi}{0}\PYG{p}{:}\PYG{l+m+mi}{28}\PYG{p}{]}
+\end{MintedVerbatim}

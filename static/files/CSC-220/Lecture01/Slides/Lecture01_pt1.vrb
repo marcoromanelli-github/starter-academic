@@ -1,0 +1,33 @@
+\frametitle{Tensor Reshaping}
+\begin{itemize}
+        \item Reshaping changes the shape of a tensor without changing its data.
+        \item The total number of elements must remain the same.
+    \end{itemize}
+
+    \begin{center}
+        \begin{tcolorbox}[
+                width=0.78\textwidth,
+                colback=gray!5,
+                colframe=gray!60,
+                boxrule=0.4pt,
+                arc=3pt,
+                left=6pt,right=6pt,top=6pt,bottom=6pt
+            ]
+            \begin{minted}{python}
+import numpy as np
+
+x = np.array([[0, 1],
+              [2, 3],
+              [4, 5]])   # shape (3, 2)
+
+x = x.reshape((6, 1))
+# shape (6, 1)
+
+x = x.reshape((2, 3))
+# shape (2, 3)
+\end{minted}
+        \end{tcolorbox}
+    \end{center}
+
+    \vspace{0.5em}
+    \small Same data, different shapes.

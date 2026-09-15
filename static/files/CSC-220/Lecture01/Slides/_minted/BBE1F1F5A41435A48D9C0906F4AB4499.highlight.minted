@@ -1,0 +1,7 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{import}\PYG{+w}{ }\PYG{n+nn}{numpy}\PYG{+w}{ }\PYG{k}{as}\PYG{+w}{ }\PYG{n+nn}{np}
+\PYG{n}{x} \PYG{o}{=} \PYG{n}{np}\PYG{o}{.}\PYG{n}{array}\PYG{p}{([}\PYG{l+m+mi}{12}\PYG{p}{,} \PYG{l+m+mi}{3}\PYG{p}{,} \PYG{l+m+mi}{6}\PYG{p}{,} \PYG{l+m+mi}{14}\PYG{p}{,} \PYG{l+m+mi}{7}\PYG{p}{])}
+
+\PYG{n+nb}{print}\PYG{p}{(}\PYG{n}{x}\PYG{p}{)}       \PYG{c+c1}{\PYGZsh{} [12  3  6 14  7]}
+\PYG{n+nb}{print}\PYG{p}{(}\PYG{n}{x}\PYG{o}{.}\PYG{n}{ndim}\PYG{p}{)}  \PYG{c+c1}{\PYGZsh{} 1}
+\end{MintedVerbatim}

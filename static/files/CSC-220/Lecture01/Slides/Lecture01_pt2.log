@@ -1,0 +1,2731 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.8.7)  15 SEP 2026 16:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/h703293553/GitHubLocal/Teaching/Fall_2026/CSC-220/Lecture01/Slides/Lecture01_pt2.tex
+(/Users/h703293553/GitHubLocal/Teaching/Fall_2026/CSC-220/Lecture01/Slides/Lecture01_pt2.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-07-20>
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2026/01/22 v3.77 A class for typesetting presentations
+(/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+\beamer@tempbox=\box53
+\beamer@tempcount=\count277
+\c@beamerpauses=\count278
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count279
+\beamer@minimum=\count280
+\beamer@decode@box=\box54
+)
+\beamer@commentbox=\box55
+\beamer@modecount=\count281
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\headdp=\dimen150
+\footheight=\dimen151
+\sidebarheight=\dimen152
+\beamer@tempdim=\dimen153
+\beamer@finalheight=\dimen154
+\beamer@animht=\dimen155
+\beamer@animdp=\dimen156
+\beamer@animwd=\dimen157
+\beamer@leftmargin=\dimen158
+\beamer@rightmargin=\dimen159
+\beamer@leftsidebar=\dimen160
+\beamer@rightsidebar=\dimen161
+\beamer@boxsize=\dimen162
+\beamer@vboxoffset=\dimen163
+\beamer@descdefault=\dimen164
+\beamer@descriptionwidth=\dimen165
+\beamer@lastskip=\skip49
+\beamer@areabox=\box56
+\beamer@animcurrent=\box57
+\beamer@animshowbox=\box58
+\beamer@sectionbox=\box59
+\beamer@logobox=\box60
+\beamer@linebox=\box61
+\beamer@sectioncount=\count282
+\beamer@subsubsectionmax=\count283
+\beamer@subsectionmax=\count284
+\beamer@sectionmax=\count285
+\beamer@totalheads=\count286
+\beamer@headcounter=\count287
+\beamer@partstartpage=\count288
+\beamer@sectionstartpage=\count289
+\beamer@subsectionstartpage=\count290
+\beamer@animationtempa=\count291
+\beamer@animationtempb=\count292
+\beamer@xpos=\count293
+\beamer@ypos=\count294
+\beamer@ypos@offset=\count295
+\beamer@showpartnumber=\count296
+\beamer@currentsubsection=\count297
+\beamer@coveringdepth=\count298
+\beamer@sectionadjust=\count299
+\beamer@toclastsection=\count300
+\beamer@tocsectionnumber=\count301
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+\beamer@paperwidth=\skip50
+\beamer@paperheight=\skip51
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count302
+\Gm@cntv=\count303
+\c@Gm@tempcnt=\count304
+\Gm@bindingoffset=\dimen166
+\Gm@wd@mp=\dimen167
+\Gm@odd@mp=\dimen168
+\Gm@even@mp=\dimen169
+\Gm@layoutwidth=\dimen170
+\Gm@layoutheight=\dimen171
+\Gm@layouthoffset=\dimen172
+\Gm@layoutvoffset=\dimen173
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box62
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2026-08-01 v3.1.12 (3.1.12)
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen176
+\pgf@xa=\dimen177
+\pgf@xb=\dimen178
+\pgf@xc=\dimen179
+\pgf@y=\dimen180
+\pgf@ya=\dimen181
+\pgf@yb=\dimen182
+\pgf@yc=\dimen183
+\c@pgf@counta=\count305
+\c@pgf@countb=\count306
+\c@pgf@countc=\count307
+\c@pgf@countd=\count308
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen184
+\pgfmath@count=\count309
+\pgfmath@box=\box63
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count310
+))) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen185
+\Gin@req@width=\dimen186
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2026-08-01 v3.1.12 (3.1.12)
+\pgf@x=\dimen187
+\pgf@y=\dimen188
+\pgf@xa=\dimen189
+\pgf@ya=\dimen190
+\pgf@xb=\dimen191
+\pgf@yb=\dimen192
+\pgf@xc=\dimen193
+\pgf@yc=\dimen194
+\pgf@xd=\dimen195
+\pgf@yd=\dimen196
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count311
+\c@pgf@countb=\count312
+\c@pgf@countc=\count313
+\c@pgf@countd=\count314
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count315
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2026-08-01 v3.1.12 (3.1.12)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2026-08-01 v3.1.12 (3.1.12)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2026-08-01 v3.1.12 (3.1.12)
+))) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfsyssoftpath@smallbuffer@items=\count316
+\pgfsyssoftpath@bigbuffer@items=\count317
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2026-08-01 v3.1.12 (3.1.12)
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2026-08-01 v3.1.12 (3.1.12)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@picminx=\dimen197
+\pgf@picmaxx=\dimen198
+\pgf@picminy=\dimen199
+\pgf@picmaxy=\dimen256
+\pgf@pathminx=\dimen257
+\pgf@pathmaxx=\dimen258
+\pgf@pathminy=\dimen259
+\pgf@pathmaxy=\dimen260
+\pgf@xx=\dimen261
+\pgf@xy=\dimen262
+\pgf@yx=\dimen263
+\pgf@yy=\dimen264
+\pgf@zx=\dimen265
+\pgf@zy=\dimen266
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@path@lastx=\dimen267
+\pgf@path@lasty=\dimen268
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@shorten@end@additional=\dimen269
+\pgf@shorten@start@additional=\dimen270
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfpic=\box64
+\pgf@hbox=\box65
+\pgf@layerbox@main=\box66
+\pgf@picture@serial@count=\count318
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgflinewidth=\dimen271
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@pt@x=\dimen272
+\pgf@pt@y=\dimen273
+\pgf@pt@temp=\dimen274
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfarrowsep=\dimen275
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@max=\dimen276
+\pgf@sys@shading@range@num=\count319
+\pgf@shadingcount=\count320
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfexternal@startupbox=\box67
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2026-08-01 v3.1.12 (3.1.12)
+))) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count321
+\XC@countmixins=\count322
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count323
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen277
+\Hy@linkcounter=\count324
+\Hy@pagecounter=\count325
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count326
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4070.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4070.
+Package hyperref Info: Option `implicit' set `false' on input line 4070.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count327
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen278
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count328
+\Field@Width=\dimen279
+\Fld@charsize=\dimen280
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count329
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-06-17 v7.01r Hyperref driver for pdfTeX
+\Fld@listcount=\count330
+\c@bookmark@seq@number=\count331
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hooks)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
+))))) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count332
+\beamer@lastskipcover=\skip52
+\beamer@trivlistdepth=\count333
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count334
+\c@part=\count335
+\c@section=\count336
+\c@subsection=\count337
+\c@subsubsection=\count338
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box68
+\beamer@frametitlebox=\box69
+\beamer@zoombox=\box70
+\beamer@zoomcount=\count339
+\beamer@zoomframecount=\count340
+\beamer@frametextheight=\dimen281
+\c@subsectionslide=\count341
+\beamer@frametopskip=\skip53
+\beamer@framebottomskip=\skip54
+\beamer@frametopskipautobreak=\skip55
+\beamer@framebottomskipautobreak=\skip56
+\beamer@envbody=\toks30
+\framewidth=\dimen282
+\c@framenumber=\count342
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box71
+\beamer@autobreakcount=\count343
+\beamer@autobreaklastheight=\dimen283
+\beamer@frametitletoks=\toks31
+\beamer@framesubtitletoks=\toks32
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@colheight=\skip57
+\beamer@footins=\box72
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box73
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks33
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box74
+\bmb@colorbox=\box75
+\bmb@boxwidth=\dimen284
+\bmb@boxheight=\dimen285
+\bmb@prevheight=\dimen286
+\bmb@temp=\dimen287
+\bmb@dima=\dimen288
+\bmb@dimb=\dimen289
+\bmb@prevheight=\dimen290
+)
+\beamer@blockheadheight=\dimen291
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks34
+)
+\beamer@bibiconwidth=\skip58
+\c@figure=\count344
+\c@table=\count345
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
+\beamer@section@min@dim=\dimen292
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen293
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen294
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count346
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count347
+\leftroot@=\count348
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count349
+\DOTSCASE@=\count350
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box76
+\strutbox@=\box77
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen295
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count351
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count352
+\dotsspace@=\muskip18
+\c@parentequation=\count353
+\dspbrk@lvl=\count354
+\tag@help=\toks36
+\row@=\count355
+\column@=\count356
+\maxfields@=\count357
+\andhelp@=\toks37
+\eqnshift@=\dimen296
+\alignsep@=\dimen297
+\tagshift@=\dimen298
+\tagwidth@=\dimen299
+\totwidth@=\dimen300
+\lineht@=\dimen301
+\@envbody=\toks38
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks40
+\thm@bodyfont=\toks41
+\thm@headfont=\toks42
+\thm@notefont=\toks43
+\thm@headpunct=\toks44
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
+\dth@everypar=\toks45
+)
+\c@theorem=\count358
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen302
+\beamer@dimb=\dimen303
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2026-08-01 v3.1.12 (3.1.12)
+\pgffor@iter=\dimen304
+\pgffor@skip=\dimen305
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2026-08-01 v3.1.12 (3.1.12)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfnodeparttextbox=\box78
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2026-08-01 v3.1.12 (3.1.12)
+\pgf@nodesepstart=\dimen306
+\pgf@nodesepend=\dimen307
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2026-08-01 v3.1.12 (3.1.12)
+)) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2026-08-01 v3.1.12 (3.1.12)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgf@plot@mark@count=\count359
+\pgfplotmarksize=\dimen308
+)
+\tikz@lastx=\dimen309
+\tikz@lasty=\dimen310
+\tikz@lastxsaved=\dimen311
+\tikz@lastysaved=\dimen312
+\tikz@lastmovetox=\dimen313
+\tikz@lastmovetoy=\dimen314
+\tikzleveldistance=\dimen315
+\tikzsiblingdistance=\dimen316
+\tikz@figbox=\box79
+\tikz@figbox@bg=\box80
+\tikz@tempbox=\box81
+\tikz@tempbox@bg=\box82
+\tikztreelevel=\count360
+\tikznumberofchildren=\count361
+\tikznumberofcurrentchild=\count362
+\tikz@fig@count=\count363
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfmatrixcurrentrow=\count364
+\pgfmatrixcurrentcolumn=\count365
+\pgf@matrix@numberofcolumns=\count366
+)
+\tikz@expandcount=\count367
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2026-08-01 v3.1.12 (3.1.12)
+))) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks48
+\inpenc@posthook=\toks49
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen317
+\enit@toks=\toks50
+\enit@inbox=\box83
+\enit@count@id=\count368
+\enitdp@description=\count369
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip68
+\RaggedLeftLeftskip=\skip69
+\RaggedRightLeftskip=\skip70
+\CenteringRightskip=\skip71
+\RaggedLeftRightskip=\skip72
+\RaggedRightRightskip=\skip73
+\CenteringParfillskip=\skip74
+\RaggedLeftParfillskip=\skip75
+\RaggedRightParfillskip=\skip76
+\JustifyingParfillskip=\skip77
+\CenteringParindent=\skip78
+\RaggedLeftParindent=\skip79
+\RaggedRightParindent=\skip80
+\JustifyingParindent=\skip81
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count370
+\lst@gtempboxa=\box84
+\lst@token=\toks51
+\lst@length=\count371
+\lst@currlwidth=\dimen318
+\lst@column=\count372
+\lst@pos=\count373
+\lst@lostspace=\dimen319
+\lst@width=\dimen320
+\lst@newlines=\count374
+\lst@lineno=\count375
+\lst@maxwidth=\dimen321
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count376
+\lst@skipnumbers=\count377
+\lst@framebox=\box85
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2026/03/03 v3.8.0 Yet another Pygments shim for LaTeX
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2026/02/25 v1.14.0 fvextra - extensions and patches for fancyvrb
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2026/04/16 4.6a verbatim text (tvz,hv)
+\FV@CodeLineNo=\count378
+\FV@InFile=\read3
+\FV@TabBox=\box86
+\c@FancyVerbLine=\count379
+\FV@StepNumber=\count380
+\FV@OutFile=\write5
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2026/03/08 line numbers on paragraphs v5.9
+\linenopenalty=\count381
+\output=\toks52
+\linenoprevgraf=\count382
+\linenumbersep=\dimen322
+\linenumberwidth=\dimen323
+\c@linenumber=\count383
+\c@pagewiselinenumber=\count384
+\c@LN@truepage=\count385
+\c@internallinenumber=\count386
+\c@internallinenumbers=\count387
+\quotelinenumbersep=\dimen324
+\bframerule=\dimen325
+\bframesep=\dimen326
+\bframebox=\box87
+\@LN@amsmath@ams@eqpen=\count388
+)
+\c@FancyVerbWriteLine=\count389
+\c@FancyVerbBufferLine=\count390
+\c@FV@TrueTabGroupLevel=\count391
+\c@FV@TrueTabCounter=\count392
+\FV@TabBox@Group=\box88
+\FV@bgcolorstructbox=\box89
+\FV@TmpLength=\skip82
+\c@FV@HighlightLinesStart=\count393
+\c@FV@HighlightLinesStop=\count394
+\FV@LoopCount=\count395
+\FV@NCharsBox=\box90
+\FV@BreakIndent=\dimen327
+\FV@BreakIndentNChars=\count396
+\FV@BreakSymbolSepLeft=\dimen328
+\FV@BreakSymbolSepLeftNChars=\count397
+\FV@BreakSymbolSepRight=\dimen329
+\FV@BreakSymbolSepRightNChars=\count398
+\FV@BreakSymbolIndentLeft=\dimen330
+\FV@BreakSymbolIndentLeftNChars=\count399
+\FV@BreakSymbolIndentRight=\dimen331
+\FV@BreakSymbolIndentRightNChars=\count400
+\c@FancyVerbLineBreakLast=\count401
+\FV@LineBox=\box91
+\FV@LineIndentBox=\box92
+\c@FV@BreakBufferDepth=\count402
+\FV@LineWidth=\dimen332
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/latex2pydata/latex2pydata.sty
+Package: latex2pydata 2026/02/25 v0.7.0 latex2pydata - write data to file in Python literal format
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks53
+\pgfopts@list@add@b@toks=\toks54
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count403
+\float@exts=\toks55
+\float@box=\box93
+\@float@everytoks=\toks56
+\@floatcapt=\box94
+)
+\c@minted@FancyVerbLineTemp=\count404
+\@float@every@listing=\toks57
+\c@listing=\count405
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2024/10/14 PDF & SVG animations from files and inline graphics
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count406
+\calc@Bcount=\count407
+\calc@Adimen=\dimen333
+\calc@Bdimen=\dimen334
+\calc@Askip=\skip83
+\calc@Bskip=\skip84
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count408
+\calc@Cskip=\skip85
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/media9/pdfbase.sty
+Package: pdfbase 2024/09/16 v0.59 driver independent access to low-level PDF features
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-07-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count409
+)
+\g_pbs_page_int=\count410
+\g_pbs_oc_int=\count411
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2026-03-07 v2.37 Module abspage for zref (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2026-03-07 v2.37 Module base for zref (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count412
+Package zref Info: New property: abspage on input line 67.
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2024/09/15 v0.24 support package for ocgx2.sty
+)
+\@anim@box=\box95
+\@anim@measbox=\box96
+\@anim@tmpdima=\dimen335
+\@anim@tmpdimb=\dimen336
+\@anim@num=\count413
+\@anim@curframe=\count414
+\@anim@curframe@zb=\count415
+\@anim@resizeflags=\count416
+\@anim@skipfram=\count417
+\@anim@mulframecnt=\count418
+\@anim@@tmlnfile=\read4
+\@anim@tmpcnt=\count419
+\c@@anim@ltxcnt=\count420
+\@anim@curlayer=\count421
+\@anim@lineno=\count422
+\@anim@curfield=\count423
+\@anim@@resizeflags=\count424
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2026/05/28 version 6.10.0 text color boxes
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks58
+\verbatim@line=\toks59
+\verbatim@in@stream=\read5
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box97
+\tcb@upperbox=\box98
+\tcb@lowerbox=\box99
+\tcb@phantombox=\box100
+\c@tcbbreakpart=\count425
+\c@tcblayer=\count426
+\c@tcolorbox@number=\count427
+\l__tcobox_tmpa_box=\box101
+\l__tcobox_tmpa_dim=\dimen337
+\tcb@temp=\box102
+\tcb@temp=\box103
+\tcb@temp=\box104
+\tcb@temp=\box105
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.10.0'
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.10.0'
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.10.0'
+)
+\c@tcblisting=\count428
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/tcolorbox/tcbminted.code.tex
+Library (tcolorbox): 'tcbminted.code.tex' version '6.10.0'
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/local/texlive/2026/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2026-08-01 v3.1.12 (3.1.12)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2026-08-01 v3.1.12 (3.1.12)
+\pgfarrowinset=\dimen338
+\pgfarrowlength=\dimen339
+\pgfarrowwidth=\dimen340
+\pgfarrowlinewidth=\dimen341
+) (./Lecture01_pt2.aux)
+\openout1 = `Lecture01_pt2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count429
+\scratchdimen=\dimen342
+\scratchbox=\box106
+\nofMPsegments=\count430
+\nofMParguments=\count431
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count432
+\MPscratchDim=\dimen343
+\MPnumerator=\count433
+\makeMPintoPDFobject=\count434
+\everyMPtoPDFconversion=\toks61
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring OFF on input line 80.
+ (./Lecture01_pt2.out) (./Lecture01_pt2.out)
+\@outlinefile=\write6
+\openout6 = `Lecture01_pt2.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 80.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 80.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 80.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 80.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 80.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 80.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 80.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 80.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 80.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 80.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 80.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 80.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 80.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+\c@lstlisting=\count435
+ (./Lecture01_pt2.nav)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 80.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+) [1
+
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./backprop_animation.tex
+<backprop_frames/backprop-000.png, id=40, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-000.png Graphic file (type png)
+<use backprop_frames/backprop-000.png>
+Package pdftex.def Info: backprop_frames/backprop-000.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-000.png (PNG copy)> <a0,fr0>
+<backprop_frames/backprop-001.png, id=43, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-001.png Graphic file (type png)
+<use backprop_frames/backprop-001.png>
+Package pdftex.def Info: backprop_frames/backprop-001.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-001.png (PNG copy)> <a0,fr1>
+<backprop_frames/backprop-002.png, id=46, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-002.png Graphic file (type png)
+<use backprop_frames/backprop-002.png>
+Package pdftex.def Info: backprop_frames/backprop-002.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-002.png (PNG copy)> <a0,fr2>
+<backprop_frames/backprop-003.png, id=49, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-003.png Graphic file (type png)
+<use backprop_frames/backprop-003.png>
+Package pdftex.def Info: backprop_frames/backprop-003.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-003.png (PNG copy)> <a0,fr3>
+<backprop_frames/backprop-004.png, id=52, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-004.png Graphic file (type png)
+<use backprop_frames/backprop-004.png>
+Package pdftex.def Info: backprop_frames/backprop-004.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-004.png (PNG copy)> <a0,fr4>
+<backprop_frames/backprop-005.png, id=55, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-005.png Graphic file (type png)
+<use backprop_frames/backprop-005.png>
+Package pdftex.def Info: backprop_frames/backprop-005.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-005.png (PNG copy)> <a0,fr5>
+<backprop_frames/backprop-006.png, id=58, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-006.png Graphic file (type png)
+<use backprop_frames/backprop-006.png>
+Package pdftex.def Info: backprop_frames/backprop-006.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-006.png (PNG copy)> <a0,fr6>
+<backprop_frames/backprop-007.png, id=61, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-007.png Graphic file (type png)
+<use backprop_frames/backprop-007.png>
+Package pdftex.def Info: backprop_frames/backprop-007.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-007.png (PNG copy)> <a0,fr7>
+<backprop_frames/backprop-008.png, id=64, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-008.png Graphic file (type png)
+<use backprop_frames/backprop-008.png>
+Package pdftex.def Info: backprop_frames/backprop-008.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-008.png (PNG copy)> <a0,fr8>
+<backprop_frames/backprop-009.png, id=67, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-009.png Graphic file (type png)
+<use backprop_frames/backprop-009.png>
+Package pdftex.def Info: backprop_frames/backprop-009.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-009.png (PNG copy)> <a0,fr9>
+<backprop_frames/backprop-010.png, id=70, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-010.png Graphic file (type png)
+<use backprop_frames/backprop-010.png>
+Package pdftex.def Info: backprop_frames/backprop-010.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-010.png (PNG copy)> <a0,fr10>
+<backprop_frames/backprop-011.png, id=73, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-011.png Graphic file (type png)
+<use backprop_frames/backprop-011.png>
+Package pdftex.def Info: backprop_frames/backprop-011.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-011.png (PNG copy)> <a0,fr11>
+<backprop_frames/backprop-012.png, id=76, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-012.png Graphic file (type png)
+<use backprop_frames/backprop-012.png>
+Package pdftex.def Info: backprop_frames/backprop-012.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-012.png (PNG copy)> <a0,fr12>
+<backprop_frames/backprop-013.png, id=79, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-013.png Graphic file (type png)
+<use backprop_frames/backprop-013.png>
+Package pdftex.def Info: backprop_frames/backprop-013.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-013.png (PNG copy)> <a0,fr13>
+<backprop_frames/backprop-014.png, id=82, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-014.png Graphic file (type png)
+<use backprop_frames/backprop-014.png>
+Package pdftex.def Info: backprop_frames/backprop-014.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-014.png (PNG copy)> <a0,fr14>
+<backprop_frames/backprop-015.png, id=85, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-015.png Graphic file (type png)
+<use backprop_frames/backprop-015.png>
+Package pdftex.def Info: backprop_frames/backprop-015.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-015.png (PNG copy)> <a0,fr15>
+<backprop_frames/backprop-016.png, id=88, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-016.png Graphic file (type png)
+<use backprop_frames/backprop-016.png>
+Package pdftex.def Info: backprop_frames/backprop-016.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-016.png (PNG copy)> <a0,fr16>
+<backprop_frames/backprop-017.png, id=91, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-017.png Graphic file (type png)
+<use backprop_frames/backprop-017.png>
+Package pdftex.def Info: backprop_frames/backprop-017.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-017.png (PNG copy)> <a0,fr17>
+<backprop_frames/backprop-018.png, id=94, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-018.png Graphic file (type png)
+<use backprop_frames/backprop-018.png>
+Package pdftex.def Info: backprop_frames/backprop-018.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-018.png (PNG copy)> <a0,fr18>
+<backprop_frames/backprop-019.png, id=97, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-019.png Graphic file (type png)
+<use backprop_frames/backprop-019.png>
+Package pdftex.def Info: backprop_frames/backprop-019.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-019.png (PNG copy)> <a0,fr19>
+<backprop_frames/backprop-020.png, id=100, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-020.png Graphic file (type png)
+<use backprop_frames/backprop-020.png>
+Package pdftex.def Info: backprop_frames/backprop-020.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-020.png (PNG copy)> <a0,fr20> <a0,fr21>
+<backprop_frames/backprop-022.png, id=103, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-022.png Graphic file (type png)
+<use backprop_frames/backprop-022.png>
+Package pdftex.def Info: backprop_frames/backprop-022.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-022.png (PNG copy)> <a0,fr22>
+<backprop_frames/backprop-023.png, id=106, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-023.png Graphic file (type png)
+<use backprop_frames/backprop-023.png>
+Package pdftex.def Info: backprop_frames/backprop-023.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-023.png (PNG copy)> <a0,fr23>
+<backprop_frames/backprop-024.png, id=109, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-024.png Graphic file (type png)
+<use backprop_frames/backprop-024.png>
+Package pdftex.def Info: backprop_frames/backprop-024.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-024.png (PNG copy)> <a0,fr24>
+<backprop_frames/backprop-025.png, id=112, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-025.png Graphic file (type png)
+<use backprop_frames/backprop-025.png>
+Package pdftex.def Info: backprop_frames/backprop-025.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-025.png (PNG copy)> <a0,fr25>
+<backprop_frames/backprop-026.png, id=115, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-026.png Graphic file (type png)
+<use backprop_frames/backprop-026.png>
+Package pdftex.def Info: backprop_frames/backprop-026.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-026.png (PNG copy)> <a0,fr26>
+<backprop_frames/backprop-027.png, id=118, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-027.png Graphic file (type png)
+<use backprop_frames/backprop-027.png>
+Package pdftex.def Info: backprop_frames/backprop-027.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-027.png (PNG copy)> <a0,fr27>
+<backprop_frames/backprop-028.png, id=121, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-028.png Graphic file (type png)
+<use backprop_frames/backprop-028.png>
+Package pdftex.def Info: backprop_frames/backprop-028.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-028.png (PNG copy)> <a0,fr28>
+<backprop_frames/backprop-029.png, id=124, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-029.png Graphic file (type png)
+<use backprop_frames/backprop-029.png>
+Package pdftex.def Info: backprop_frames/backprop-029.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-029.png (PNG copy)> <a0,fr29>
+<backprop_frames/backprop-030.png, id=127, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-030.png Graphic file (type png)
+<use backprop_frames/backprop-030.png>
+Package pdftex.def Info: backprop_frames/backprop-030.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-030.png (PNG copy)> <a0,fr30>
+<backprop_frames/backprop-031.png, id=130, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-031.png Graphic file (type png)
+<use backprop_frames/backprop-031.png>
+Package pdftex.def Info: backprop_frames/backprop-031.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-031.png (PNG copy)> <a0,fr31>
+<backprop_frames/backprop-032.png, id=133, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-032.png Graphic file (type png)
+<use backprop_frames/backprop-032.png>
+Package pdftex.def Info: backprop_frames/backprop-032.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-032.png (PNG copy)> <a0,fr32>
+<backprop_frames/backprop-033.png, id=136, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-033.png Graphic file (type png)
+<use backprop_frames/backprop-033.png>
+Package pdftex.def Info: backprop_frames/backprop-033.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-033.png (PNG copy)> <a0,fr33>
+<backprop_frames/backprop-034.png, id=139, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-034.png Graphic file (type png)
+<use backprop_frames/backprop-034.png>
+Package pdftex.def Info: backprop_frames/backprop-034.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-034.png (PNG copy)> <a0,fr34>
+<backprop_frames/backprop-035.png, id=142, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-035.png Graphic file (type png)
+<use backprop_frames/backprop-035.png>
+Package pdftex.def Info: backprop_frames/backprop-035.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-035.png (PNG copy)> <a0,fr35>
+<backprop_frames/backprop-036.png, id=145, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-036.png Graphic file (type png)
+<use backprop_frames/backprop-036.png>
+Package pdftex.def Info: backprop_frames/backprop-036.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-036.png (PNG copy)> <a0,fr36>
+<backprop_frames/backprop-037.png, id=148, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-037.png Graphic file (type png)
+<use backprop_frames/backprop-037.png>
+Package pdftex.def Info: backprop_frames/backprop-037.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-037.png (PNG copy)> <a0,fr37> <a0,fr38> <a0,fr39> <a0,fr40> <a0,fr41> <a0,fr42> <a0,fr43> <a0,fr44> <a0,fr45> <a0,fr46> <a0,fr47> <a0,fr48> <a0,fr49> <a0,fr50> <a0,fr51> <a0,fr52> <a0,fr53> <a0,fr54>
+<backprop_frames/backprop-055.png, id=151, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-055.png Graphic file (type png)
+<use backprop_frames/backprop-055.png>
+Package pdftex.def Info: backprop_frames/backprop-055.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-055.png (PNG copy)> <a0,fr55>
+<backprop_frames/backprop-056.png, id=154, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-056.png Graphic file (type png)
+<use backprop_frames/backprop-056.png>
+Package pdftex.def Info: backprop_frames/backprop-056.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-056.png (PNG copy)> <a0,fr56>
+<backprop_frames/backprop-057.png, id=157, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-057.png Graphic file (type png)
+<use backprop_frames/backprop-057.png>
+Package pdftex.def Info: backprop_frames/backprop-057.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-057.png (PNG copy)> <a0,fr57>
+<backprop_frames/backprop-058.png, id=160, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-058.png Graphic file (type png)
+<use backprop_frames/backprop-058.png>
+Package pdftex.def Info: backprop_frames/backprop-058.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-058.png (PNG copy)> <a0,fr58>
+<backprop_frames/backprop-059.png, id=163, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-059.png Graphic file (type png)
+<use backprop_frames/backprop-059.png>
+Package pdftex.def Info: backprop_frames/backprop-059.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-059.png (PNG copy)> <a0,fr59>
+<backprop_frames/backprop-060.png, id=166, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-060.png Graphic file (type png)
+<use backprop_frames/backprop-060.png>
+Package pdftex.def Info: backprop_frames/backprop-060.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-060.png (PNG copy)> <a0,fr60>
+<backprop_frames/backprop-061.png, id=169, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-061.png Graphic file (type png)
+<use backprop_frames/backprop-061.png>
+Package pdftex.def Info: backprop_frames/backprop-061.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-061.png (PNG copy)> <a0,fr61>
+<backprop_frames/backprop-062.png, id=172, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-062.png Graphic file (type png)
+<use backprop_frames/backprop-062.png>
+Package pdftex.def Info: backprop_frames/backprop-062.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-062.png (PNG copy)> <a0,fr62>
+<backprop_frames/backprop-063.png, id=175, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-063.png Graphic file (type png)
+<use backprop_frames/backprop-063.png>
+Package pdftex.def Info: backprop_frames/backprop-063.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-063.png (PNG copy)> <a0,fr63>
+<backprop_frames/backprop-064.png, id=178, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-064.png Graphic file (type png)
+<use backprop_frames/backprop-064.png>
+Package pdftex.def Info: backprop_frames/backprop-064.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-064.png (PNG copy)> <a0,fr64>
+<backprop_frames/backprop-065.png, id=181, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-065.png Graphic file (type png)
+<use backprop_frames/backprop-065.png>
+Package pdftex.def Info: backprop_frames/backprop-065.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-065.png (PNG copy)> <a0,fr65>
+<backprop_frames/backprop-066.png, id=184, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-066.png Graphic file (type png)
+<use backprop_frames/backprop-066.png>
+Package pdftex.def Info: backprop_frames/backprop-066.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-066.png (PNG copy)> <a0,fr66>
+<backprop_frames/backprop-067.png, id=187, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-067.png Graphic file (type png)
+<use backprop_frames/backprop-067.png>
+Package pdftex.def Info: backprop_frames/backprop-067.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-067.png (PNG copy)> <a0,fr67>
+<backprop_frames/backprop-068.png, id=190, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-068.png Graphic file (type png)
+<use backprop_frames/backprop-068.png>
+Package pdftex.def Info: backprop_frames/backprop-068.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-068.png (PNG copy)> <a0,fr68>
+<backprop_frames/backprop-069.png, id=193, 1284.8pt x 722.7pt>
+File: backprop_frames/backprop-069.png Graphic file (type png)
+<use backprop_frames/backprop-069.png>
+Package pdftex.def Info: backprop_frames/backprop-069.png  used on input line 9.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_frames/backprop-069.png (PNG copy)> <a0,fr69> [2
+
+])
+<backprop_gradient_animation/backprop_gradient_frames/gradient-000.png, id=305, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-000.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-000.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-000.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-000.png> <a1,fr0>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-001.png, id=310, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-001.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-001.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-001.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-001.png> <a1,fr1>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-002.png, id=314, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-002.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-002.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-002.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-002.png> <a1,fr2>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-003.png, id=318, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-003.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-003.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-003.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-003.png> <a1,fr3>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-004.png, id=322, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-004.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-004.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-004.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-004.png> <a1,fr4>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-005.png, id=326, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-005.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-005.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-005.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-005.png> <a1,fr5>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-006.png, id=330, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-006.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-006.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-006.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-006.png> <a1,fr6>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-007.png, id=334, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-007.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-007.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-007.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-007.png> <a1,fr7>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-008.png, id=338, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-008.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-008.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-008.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-008.png> <a1,fr8>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-009.png, id=342, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-009.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-009.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-009.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-009.png> <a1,fr9>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-010.png, id=346, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-010.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-010.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-010.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-010.png> <a1,fr10>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-011.png, id=350, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-011.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-011.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-011.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-011.png> <a1,fr11>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-012.png, id=354, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-012.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-012.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-012.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-012.png> <a1,fr12> <a1,fr13> <a1,fr14> <a1,fr15>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-016.png, id=358, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-016.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-016.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-016.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-016.png> <a1,fr16>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-017.png, id=362, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-017.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-017.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-017.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-017.png> <a1,fr17>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-018.png, id=366, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-018.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-018.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-018.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-018.png> <a1,fr18>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-019.png, id=370, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-019.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-019.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-019.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-019.png> <a1,fr19>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-020.png, id=374, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-020.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-020.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-020.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-020.png> <a1,fr20>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-021.png, id=378, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-021.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-021.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-021.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-021.png> <a1,fr21>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-022.png, id=382, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-022.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-022.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-022.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-022.png> <a1,fr22>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-023.png, id=386, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-023.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-023.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-023.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-023.png> <a1,fr23>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-024.png, id=390, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-024.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-024.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-024.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-024.png> <a1,fr24>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-025.png, id=394, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-025.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-025.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-025.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-025.png> <a1,fr25>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-026.png, id=398, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-026.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-026.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-026.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-026.png> <a1,fr26>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-027.png, id=402, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-027.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-027.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-027.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-027.png> <a1,fr27> <a1,fr28> <a1,fr29>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-030.png, id=406, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-030.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-030.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-030.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-030.png> <a1,fr30>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-031.png, id=410, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-031.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-031.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-031.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-031.png> <a1,fr31>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-032.png, id=414, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-032.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-032.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-032.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-032.png> <a1,fr32>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-033.png, id=418, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-033.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-033.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-033.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-033.png> <a1,fr33>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-034.png, id=422, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-034.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-034.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-034.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-034.png> <a1,fr34>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-035.png, id=426, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-035.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-035.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-035.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-035.png> <a1,fr35>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-036.png, id=430, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-036.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-036.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-036.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-036.png> <a1,fr36>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-037.png, id=434, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-037.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-037.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-037.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-037.png> <a1,fr37>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-038.png, id=438, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-038.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-038.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-038.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-038.png> <a1,fr38>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-039.png, id=442, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-039.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-039.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-039.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-039.png> <a1,fr39>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-040.png, id=446, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-040.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-040.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-040.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-040.png> <a1,fr40>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-041.png, id=450, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-041.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-041.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-041.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-041.png> <a1,fr41>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-042.png, id=454, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-042.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-042.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-042.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-042.png> <a1,fr42>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-043.png, id=458, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-043.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-043.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-043.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-043.png> <a1,fr43>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-044.png, id=462, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-044.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-044.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-044.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-044.png> <a1,fr44>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-045.png, id=466, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-045.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-045.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-045.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-045.png> <a1,fr45>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-046.png, id=470, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-046.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-046.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-046.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-046.png> <a1,fr46>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-047.png, id=475, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-047.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-047.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-047.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-047.png> <a1,fr47>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-048.png, id=479, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-048.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-048.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-048.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-048.png> <a1,fr48>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-049.png, id=483, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-049.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-049.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-049.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-049.png> <a1,fr49>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-050.png, id=487, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-050.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-050.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-050.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-050.png> <a1,fr50>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-051.png, id=491, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-051.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-051.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-051.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-051.png> <a1,fr51>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-052.png, id=495, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-052.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-052.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-052.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-052.png> <a1,fr52>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-053.png, id=499, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-053.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-053.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-053.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-053.png> <a1,fr53>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-054.png, id=503, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-054.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-054.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-054.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-054.png> <a1,fr54>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-055.png, id=507, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-055.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-055.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-055.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-055.png> <a1,fr55>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-056.png, id=511, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-056.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-056.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-056.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-056.png> <a1,fr56>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-057.png, id=515, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-057.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-057.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-057.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-057.png> <a1,fr57>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-058.png, id=519, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-058.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-058.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-058.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-058.png> <a1,fr58>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-059.png, id=523, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-059.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-059.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-059.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-059.png> <a1,fr59>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-060.png, id=527, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-060.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-060.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-060.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-060.png> <a1,fr60>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-061.png, id=531, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-061.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-061.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-061.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-061.png> <a1,fr61>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-062.png, id=535, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-062.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-062.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-062.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-062.png> <a1,fr62>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-063.png, id=539, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-063.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-063.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-063.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-063.png> <a1,fr63>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-064.png, id=543, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-064.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-064.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-064.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-064.png> <a1,fr64>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-065.png, id=547, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-065.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-065.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-065.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-065.png> <a1,fr65> <a1,fr66> <a1,fr67>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-068.png, id=551, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-068.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-068.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-068.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-068.png> <a1,fr68>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-069.png, id=555, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-069.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-069.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-069.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-069.png> <a1,fr69>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-070.png, id=559, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-070.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-070.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-070.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-070.png> <a1,fr70>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-071.png, id=563, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-071.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-071.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-071.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-071.png> <a1,fr71>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-072.png, id=567, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-072.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-072.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-072.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-072.png>
+<a1,fr72>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-073.png, id=571, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-073.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-073.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-073.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-073.png> <a1,fr73>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-074.png, id=575, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-074.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-074.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-074.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-074.png> <a1,fr74>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-075.png, id=579, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-075.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-075.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-075.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-075.png> <a1,fr75>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-076.png, id=583, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-076.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-076.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-076.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-076.png> <a1,fr76>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-077.png, id=587, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-077.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-077.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-077.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-077.png> <a1,fr77>
+<backprop_gradient_animation/backprop_gradient_frames/gradient-078.png, id=591, 1284.8pt x 722.7pt>
+File: backprop_gradient_animation/backprop_gradient_frames/gradient-078.png Graphic file (type png)
+<use backprop_gradient_animation/backprop_gradient_frames/gradient-078.png>
+Package pdftex.def Info: backprop_gradient_animation/backprop_gradient_frames/gradient-078.png  used on input line 97.
+(pdftex.def)             Requested size: 1284.79688pt x 722.69823pt.
+ <./backprop_gradient_animation/backprop_gradient_frames/gradient-078.png> <a1,fr78> <a1,fr79> <a1,fr80> <a1,fr81> <a1,fr82> <a1,fr83> [3
+
+]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=705, page=1, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 1>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page1 used on input line 114.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [4
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=728, page=2, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 2>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page2 used on input line 114.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [5
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=768, page=3, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 3>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page3 used on input line 114.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [6
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=810, page=4, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 4>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page4 used on input line 114.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [7
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=852, page=5, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 5>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page5 used on input line 114.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [8
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 126.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 126.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 126.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 126.
+ [9
+
+]
+<relu_bp/gradient-000.pdf, id=912, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-000.pdf Graphic file (type pdf)
+<use relu_bp/gradient-000.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-000.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-000.pdf> <a2,fr0>
+<relu_bp/gradient-001.pdf, id=1025, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-001.pdf Graphic file (type pdf)
+<use relu_bp/gradient-001.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-001.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-001.pdf> <a2,fr1>
+<relu_bp/gradient-002.pdf, id=1101, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-002.pdf Graphic file (type pdf)
+<use relu_bp/gradient-002.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-002.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-002.pdf> <a2,fr2>
+<relu_bp/gradient-003.pdf, id=1178, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-003.pdf Graphic file (type pdf)
+<use relu_bp/gradient-003.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-003.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-003.pdf> <a2,fr3>
+<relu_bp/gradient-004.pdf, id=1254, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-004.pdf Graphic file (type pdf)
+<use relu_bp/gradient-004.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-004.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-004.pdf> <a2,fr4>
+<relu_bp/gradient-005.pdf, id=1331, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-005.pdf Graphic file (type pdf)
+<use relu_bp/gradient-005.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-005.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-005.pdf> <a2,fr5>
+<relu_bp/gradient-006.pdf, id=1407, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-006.pdf Graphic file (type pdf)
+<use relu_bp/gradient-006.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-006.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-006.pdf> <a2,fr6>
+<relu_bp/gradient-007.pdf, id=1484, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-007.pdf Graphic file (type pdf)
+<use relu_bp/gradient-007.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-007.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-007.pdf> <a2,fr7>
+<relu_bp/gradient-008.pdf, id=1561, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-008.pdf Graphic file (type pdf)
+<use relu_bp/gradient-008.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-008.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-008.pdf> <a2,fr8>
+<relu_bp/gradient-009.pdf, id=1637, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-009.pdf Graphic file (type pdf)
+<use relu_bp/gradient-009.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-009.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-009.pdf> <a2,fr9>
+<relu_bp/gradient-010.pdf, id=1714, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-010.pdf Graphic file (type pdf)
+<use relu_bp/gradient-010.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-010.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-010.pdf> <a2,fr10>
+<relu_bp/gradient-011.pdf, id=1790, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-011.pdf Graphic file (type pdf)
+<use relu_bp/gradient-011.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-011.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-011.pdf> <a2,fr11>
+<relu_bp/gradient-012.pdf, id=1867, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-012.pdf Graphic file (type pdf)
+<use relu_bp/gradient-012.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-012.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-012.pdf> <a2,fr12>
+<relu_bp/gradient-013.pdf, id=1943, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-013.pdf Graphic file (type pdf)
+<use relu_bp/gradient-013.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-013.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-013.pdf> <a2,fr13>
+<relu_bp/gradient-014.pdf, id=2020, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-014.pdf Graphic file (type pdf)
+<use relu_bp/gradient-014.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-014.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-014.pdf> <a2,fr14>
+<relu_bp/gradient-015.pdf, id=2096, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-015.pdf Graphic file (type pdf)
+<use relu_bp/gradient-015.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-015.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-015.pdf> <a2,fr15>
+<relu_bp/gradient-016.pdf, id=2173, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-016.pdf Graphic file (type pdf)
+<use relu_bp/gradient-016.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-016.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-016.pdf> <a2,fr16>
+<relu_bp/gradient-017.pdf, id=2250, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-017.pdf Graphic file (type pdf)
+<use relu_bp/gradient-017.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-017.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-017.pdf> <a2,fr17>
+<relu_bp/gradient-018.pdf, id=2326, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-018.pdf Graphic file (type pdf)
+<use relu_bp/gradient-018.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-018.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-018.pdf> <a2,fr18>
+<relu_bp/gradient-019.pdf, id=2403, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-019.pdf Graphic file (type pdf)
+<use relu_bp/gradient-019.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-019.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-019.pdf> <a2,fr19>
+<relu_bp/gradient-020.pdf, id=2479, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-020.pdf Graphic file (type pdf)
+<use relu_bp/gradient-020.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-020.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-020.pdf> <a2,fr20>
+<relu_bp/gradient-021.pdf, id=2556, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-021.pdf Graphic file (type pdf)
+<use relu_bp/gradient-021.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-021.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-021.pdf> <a2,fr21>
+<relu_bp/gradient-022.pdf, id=2632, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-022.pdf Graphic file (type pdf)
+<use relu_bp/gradient-022.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-022.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-022.pdf> <a2,fr22>
+<relu_bp/gradient-023.pdf, id=2709, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-023.pdf Graphic file (type pdf)
+<use relu_bp/gradient-023.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-023.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-023.pdf> <a2,fr23>
+<relu_bp/gradient-024.pdf, id=2786, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-024.pdf Graphic file (type pdf)
+<use relu_bp/gradient-024.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-024.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-024.pdf> <a2,fr24>
+<relu_bp/gradient-025.pdf, id=2862, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-025.pdf Graphic file (type pdf)
+<use relu_bp/gradient-025.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-025.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-025.pdf> <a2,fr25>
+<relu_bp/gradient-026.pdf, id=2939, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-026.pdf Graphic file (type pdf)
+<use relu_bp/gradient-026.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-026.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-026.pdf> <a2,fr26>
+<relu_bp/gradient-027.pdf, id=3015, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-027.pdf Graphic file (type pdf)
+<use relu_bp/gradient-027.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-027.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-027.pdf> <a2,fr27>
+<relu_bp/gradient-028.pdf, id=3092, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-028.pdf Graphic file (type pdf)
+<use relu_bp/gradient-028.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-028.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-028.pdf> <a2,fr28>
+<relu_bp/gradient-029.pdf, id=3168, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-029.pdf Graphic file (type pdf)
+<use relu_bp/gradient-029.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-029.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-029.pdf> <a2,fr29>
+<relu_bp/gradient-030.pdf, id=3245, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-030.pdf Graphic file (type pdf)
+<use relu_bp/gradient-030.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-030.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-030.pdf> <a2,fr30>
+<relu_bp/gradient-031.pdf, id=3321, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-031.pdf Graphic file (type pdf)
+<use relu_bp/gradient-031.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-031.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-031.pdf> <a2,fr31>
+<relu_bp/gradient-032.pdf, id=3398, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-032.pdf Graphic file (type pdf)
+<use relu_bp/gradient-032.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-032.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-032.pdf> <a2,fr32>
+<relu_bp/gradient-033.pdf, id=3475, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-033.pdf Graphic file (type pdf)
+<use relu_bp/gradient-033.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-033.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-033.pdf> <a2,fr33>
+<relu_bp/gradient-034.pdf, id=3551, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-034.pdf Graphic file (type pdf)
+<use relu_bp/gradient-034.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-034.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-034.pdf> <a2,fr34>
+<relu_bp/gradient-035.pdf, id=3628, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-035.pdf Graphic file (type pdf)
+<use relu_bp/gradient-035.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-035.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-035.pdf> <a2,fr35>
+<relu_bp/gradient-036.pdf, id=3704, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-036.pdf Graphic file (type pdf)
+<use relu_bp/gradient-036.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-036.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-036.pdf> <a2,fr36>
+<relu_bp/gradient-037.pdf, id=3781, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-037.pdf Graphic file (type pdf)
+<use relu_bp/gradient-037.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-037.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-037.pdf> <a2,fr37>
+<relu_bp/gradient-038.pdf, id=3857, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-038.pdf Graphic file (type pdf)
+<use relu_bp/gradient-038.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-038.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-038.pdf> <a2,fr38>
+<relu_bp/gradient-039.pdf, id=3934, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-039.pdf Graphic file (type pdf)
+<use relu_bp/gradient-039.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-039.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-039.pdf> <a2,fr39>
+<relu_bp/gradient-040.pdf, id=4010, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-040.pdf Graphic file (type pdf)
+<use relu_bp/gradient-040.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-040.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-040.pdf> <a2,fr40>
+<relu_bp/gradient-041.pdf, id=4087, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-041.pdf Graphic file (type pdf)
+<use relu_bp/gradient-041.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-041.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-041.pdf> <a2,fr41>
+<relu_bp/gradient-042.pdf, id=4164, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-042.pdf Graphic file (type pdf)
+<use relu_bp/gradient-042.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-042.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-042.pdf> <a2,fr42>
+<relu_bp/gradient-043.pdf, id=4236, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-043.pdf Graphic file (type pdf)
+<use relu_bp/gradient-043.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-043.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-043.pdf> <a2,fr43>
+<relu_bp/gradient-044.pdf, id=4309, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-044.pdf Graphic file (type pdf)
+<use relu_bp/gradient-044.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-044.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-044.pdf> <a2,fr44>
+<relu_bp/gradient-045.pdf, id=4381, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-045.pdf Graphic file (type pdf)
+<use relu_bp/gradient-045.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-045.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-045.pdf> <a2,fr45>
+<relu_bp/gradient-046.pdf, id=4454, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-046.pdf Graphic file (type pdf)
+<use relu_bp/gradient-046.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-046.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-046.pdf> <a2,fr46>
+<relu_bp/gradient-047.pdf, id=4526, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-047.pdf Graphic file (type pdf)
+<use relu_bp/gradient-047.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-047.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-047.pdf> <a2,fr47>
+<relu_bp/gradient-048.pdf, id=4599, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-048.pdf Graphic file (type pdf)
+<use relu_bp/gradient-048.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-048.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-048.pdf> <a2,fr48>
+<relu_bp/gradient-049.pdf, id=4671, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-049.pdf Graphic file (type pdf)
+<use relu_bp/gradient-049.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-049.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-049.pdf> <a2,fr49>
+<relu_bp/gradient-050.pdf, id=4744, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-050.pdf Graphic file (type pdf)
+<use relu_bp/gradient-050.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-050.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-050.pdf> <a2,fr50>
+<relu_bp/gradient-051.pdf, id=4816, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-051.pdf Graphic file (type pdf)
+<use relu_bp/gradient-051.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-051.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-051.pdf> <a2,fr51>
+<relu_bp/gradient-052.pdf, id=4889, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-052.pdf Graphic file (type pdf)
+<use relu_bp/gradient-052.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-052.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-052.pdf> <a2,fr52>
+<relu_bp/gradient-053.pdf, id=4961, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-053.pdf Graphic file (type pdf)
+<use relu_bp/gradient-053.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-053.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-053.pdf> <a2,fr53>
+<relu_bp/gradient-054.pdf, id=5034, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-054.pdf Graphic file (type pdf)
+<use relu_bp/gradient-054.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-054.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-054.pdf> <a2,fr54>
+<relu_bp/gradient-055.pdf, id=5106, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-055.pdf Graphic file (type pdf)
+<use relu_bp/gradient-055.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-055.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-055.pdf> <a2,fr55>
+<relu_bp/gradient-056.pdf, id=5179, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-056.pdf Graphic file (type pdf)
+<use relu_bp/gradient-056.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-056.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-056.pdf> <a2,fr56>
+<relu_bp/gradient-057.pdf, id=5252, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-057.pdf Graphic file (type pdf)
+<use relu_bp/gradient-057.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-057.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-057.pdf> <a2,fr57>
+<relu_bp/gradient-058.pdf, id=5324, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-058.pdf Graphic file (type pdf)
+<use relu_bp/gradient-058.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-058.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-058.pdf> <a2,fr58>
+<relu_bp/gradient-059.pdf, id=5397, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-059.pdf Graphic file (type pdf)
+<use relu_bp/gradient-059.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-059.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-059.pdf> <a2,fr59>
+<relu_bp/gradient-060.pdf, id=5469, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-060.pdf Graphic file (type pdf)
+<use relu_bp/gradient-060.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-060.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-060.pdf> <a2,fr60>
+<relu_bp/gradient-061.pdf, id=5542, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-061.pdf Graphic file (type pdf)
+<use relu_bp/gradient-061.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-061.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-061.pdf> <a2,fr61>
+<relu_bp/gradient-062.pdf, id=5614, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-062.pdf Graphic file (type pdf)
+<use relu_bp/gradient-062.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-062.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-062.pdf> <a2,fr62>
+<relu_bp/gradient-063.pdf, id=5687, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-063.pdf Graphic file (type pdf)
+<use relu_bp/gradient-063.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-063.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-063.pdf> <a2,fr63>
+<relu_bp/gradient-064.pdf, id=5759, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-064.pdf Graphic file (type pdf)
+<use relu_bp/gradient-064.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-064.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-064.pdf> <a2,fr64>
+<relu_bp/gradient-065.pdf, id=5832, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-065.pdf Graphic file (type pdf)
+<use relu_bp/gradient-065.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-065.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-065.pdf> <a2,fr65>
+<relu_bp/gradient-066.pdf, id=5904, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-066.pdf Graphic file (type pdf)
+<use relu_bp/gradient-066.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-066.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-066.pdf> <a2,fr66>
+<relu_bp/gradient-067.pdf, id=5977, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-067.pdf Graphic file (type pdf)
+<use relu_bp/gradient-067.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-067.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-067.pdf> <a2,fr67>
+<relu_bp/gradient-068.pdf, id=6049, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-068.pdf Graphic file (type pdf)
+<use relu_bp/gradient-068.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-068.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-068.pdf> <a2,fr68>
+<relu_bp/gradient-069.pdf, id=6122, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-069.pdf Graphic file (type pdf)
+<use relu_bp/gradient-069.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-069.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-069.pdf> <a2,fr69>
+<relu_bp/gradient-070.pdf, id=6194, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-070.pdf Graphic file (type pdf)
+<use relu_bp/gradient-070.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-070.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-070.pdf> <a2,fr70>
+<relu_bp/gradient-071.pdf, id=6267, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-071.pdf Graphic file (type pdf)
+<use relu_bp/gradient-071.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-071.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-071.pdf> <a2,fr71>
+<relu_bp/gradient-072.pdf, id=6339, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-072.pdf Graphic file (type pdf)
+<use relu_bp/gradient-072.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-072.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-072.pdf> <a2,fr72>
+<relu_bp/gradient-073.pdf, id=6412, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-073.pdf Graphic file (type pdf)
+<use relu_bp/gradient-073.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-073.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-073.pdf> <a2,fr73>
+<relu_bp/gradient-074.pdf, id=6485, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-074.pdf Graphic file (type pdf)
+<use relu_bp/gradient-074.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-074.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-074.pdf> <a2,fr74>
+<relu_bp/gradient-075.pdf, id=6557, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-075.pdf Graphic file (type pdf)
+<use relu_bp/gradient-075.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-075.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-075.pdf> <a2,fr75>
+<relu_bp/gradient-076.pdf, id=6630, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-076.pdf Graphic file (type pdf)
+<use relu_bp/gradient-076.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-076.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-076.pdf> <a2,fr76>
+<relu_bp/gradient-077.pdf, id=6702, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-077.pdf Graphic file (type pdf)
+<use relu_bp/gradient-077.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-077.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-077.pdf> <a2,fr77>
+<relu_bp/gradient-078.pdf, id=6775, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-078.pdf Graphic file (type pdf)
+<use relu_bp/gradient-078.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-078.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-078.pdf> <a2,fr78>
+<relu_bp/gradient-079.pdf, id=6847, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-079.pdf Graphic file (type pdf)
+<use relu_bp/gradient-079.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-079.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-079.pdf> <a2,fr79>
+<relu_bp/gradient-080.pdf, id=6920, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-080.pdf Graphic file (type pdf)
+<use relu_bp/gradient-080.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-080.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-080.pdf> <a2,fr80>
+<relu_bp/gradient-081.pdf, id=6992, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-081.pdf Graphic file (type pdf)
+<use relu_bp/gradient-081.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-081.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-081.pdf> <a2,fr81>
+<relu_bp/gradient-082.pdf, id=7065, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-082.pdf Graphic file (type pdf)
+<use relu_bp/gradient-082.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-082.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-082.pdf> <a2,fr82>
+<relu_bp/gradient-083.pdf, id=7137, page=1, 455.24379pt x 256.07469pt>
+File: relu_bp/gradient-083.pdf Graphic file (type pdf)
+<use relu_bp/gradient-083.pdf, page 1>
+Package pdftex.def Info: relu_bp/gradient-083.pdf , page1 used on input line 136.
+(pdftex.def)             Requested size: 455.24268pt x 256.07405pt.
+ <./relu_bp/gradient-083.pdf> <a2,fr83> [10
+
+]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7320, page=7, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 7>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page7 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [11
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7350, page=8, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 8>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page8 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [12
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7374, page=9, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 9>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page9 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [13
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7393, page=10, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 10>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page10 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [14
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7411, page=11, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 11>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page11 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [15
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7430, page=12, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 12>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page12 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [16
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7448, page=13, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 13>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page13 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [17
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7466, page=14, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 14>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page14 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [18
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7484, page=15, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 15>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page15 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [19
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7503, page=16, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 16>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page16 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [20
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7532, page=17, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 17>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page17 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [21
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7569, page=18, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 18>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page18 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [22
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7591, page=19, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 19>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page19 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [23
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7633, page=20, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 20>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page20 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [24
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7666, page=21, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 21>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page21 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [25
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7707, page=22, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 22>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page22 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [26
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7765, page=23, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 23>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page23 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [27
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7810, page=24, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 24>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page24 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [28
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7860, page=25, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 25>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page25 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [29
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7907, page=26, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 26>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page26 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [30
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7945, page=27, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 27>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page27 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [31
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=7999, page=28, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 28>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page28 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [32
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8017, page=29, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 29>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page29 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [33
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8035, page=30, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 30>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page30 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [34
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8053, page=31, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 31>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page31 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [35
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8071, page=32, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 32>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page32 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [36
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8089, page=33, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 33>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page33 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [37
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8108, page=34, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 34>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page34 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [38
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8138, page=35, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 35>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page35 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [39
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8176, page=36, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 36>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page36 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [40
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8220, page=37, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 37>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page37 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [41
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8264, page=38, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 38>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page38 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [42
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8299, page=39, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 39>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page39 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [43
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8333, page=40, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 40>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page40 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [44
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8371, page=41, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 41>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page41 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [45
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8407, page=42, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 42>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page42 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [46
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8440, page=43, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 43>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page43 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [47
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8486, page=44, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 44>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page44 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [48
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8524, page=45, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 45>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page45 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [49
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8566, page=46, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 46>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page46 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [50
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8598, page=47, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 47>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page47 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [51
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8628, page=48, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 48>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page48 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [52
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8653, page=49, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 49>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page49 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [53
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8699, page=50, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 50>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page50 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [54
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8719, page=51, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 51>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page51 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [55
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8752, page=52, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 52>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page52 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [56
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8794, page=53, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 53>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page53 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [57
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8828, page=54, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 54>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page54 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [58
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8862, page=55, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 55>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page55 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [59
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8894, page=56, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 56>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page56 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [60
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+<Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, id=8929, page=57, 794.97pt x 614.295pt>
+File: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf Graphic file (type pdf)
+<use Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf, page 57>
+Package pdftex.def Info: Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf , page57 used on input line 151.
+(pdftex.def)             Requested size: 364.19536pt x 281.4262pt.
+ [61
+
+ <./Source_Lecture01_pt2/Lecture01_pt2_footer_removed.pdf>]
+\tf@nav=\write7
+\openout7 = `Lecture01_pt2.nav'.
+
+\tf@toc=\write8
+\openout8 = `Lecture01_pt2.toc'.
+
+\tf@snm=\write9
+\openout9 = `Lecture01_pt2.snm'.
+
+runsystem(latexminted cleantemp  --timestamp 20260915162048 4CC59698E3C7D1C1BE4D6C357170372A)...executed safely (allowed).
+
+ (./Lecture01_pt2.aux)
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-07-20>
+ ***********
+Package rerunfilecheck Info: File `Lecture01_pt2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 38520 strings out of 467159
+ 898106 string characters out of 5409219
+ 1273290 words of memory out of 5000000
+ 67049 multiletter control sequences out of 15000+600000
+ 637294 words of font info for 74 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,17n,123p,554b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmmib10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Lecture01_pt2.pdf (61 pages, 12480990 bytes).
+PDF statistics:
+ 9070 PDF objects out of 10688 (max. 8388607)
+ 6430 compressed objects within 65 object streams
+ 123 named destinations out of 1000 (max. 500000)
+ 3109 words of extra memory for PDF output out of 10000 (max. 10000000)
+
